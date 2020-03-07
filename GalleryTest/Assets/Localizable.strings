@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  GalleryTest
+
+  Created by Юрий Воскресенский on 04.03.2020.
+  Copyright © 2020 Voskresenskii Iurii. All rights reserved.
+*/
+
+"main_gallery_title" = "Галерея";
+"loading" = "Загрузка";
+"server_not_responding" = "Сервер недоступен";
+"no_internet_connection" = "Нет подключения к интернету";
+"unexpected_response" = "Не удалось обработать ответ от сервера";
+"invalid_url_request" = "Неверный URL";
+"OK" = "OK";
+"no_data" = "Нет данных";
+"details" = "Детали";
+"author" = "Автор";
+"width" = "Ширина";
+"height" = "Высота";
